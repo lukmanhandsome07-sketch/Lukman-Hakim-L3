@@ -109,7 +109,7 @@
         <!-- Menggunakan <ul> (Unordered List) karena urutan sosial media tidak penting -->
         <ul>
             <!-- TUGAS 8: Ganti '#' dengan link sosial media dan 'Nama Sosmed' dengan namanya (misal: GitHub, Instagram) -->
-            <li><a href="https://www.instagram.com/ll3hakim/">Nama Sosmed 1</a></li> IG
+            <li><a href="https://www.instagram.com/lllhakimreal/">Nama Sosmed 1</a></li> IG
             <li><a href="https://www.youtube.com/@LUKMANHAKIM-l3real">Nama Sosmed 2</a></li> Youtube
             <li><a href="https://github.com/lukmanhandsome07-sketch">Nama Sosmed 3</a></li> Git hub
         </ul>
@@ -120,4 +120,3 @@
 
 </body>
 </html>
-
