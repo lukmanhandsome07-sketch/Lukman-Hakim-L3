@@ -1,5 +1,3 @@
-# Lukman-Hakim-L3
-Perkenalan siswa kelas 11 SMA IT HSI-IDN
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,7 +8,7 @@ Perkenalan siswa kelas 11 SMA IT HSI-IDN
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- TUGAS 1: Ganti judul di bawah ini dengan nama lengkapmu -->
-    <title>Profil Digital - [NAMA LENGKAP KAMU]</title>
+    <title>Profil Digital - [Lukman Hakim]</title>
 </head>
 <body>
 
@@ -41,12 +39,14 @@ Perkenalan siswa kelas 11 SMA IT HSI-IDN
                 2. Ganti 'nama-file-gambar.jpg' dengan nama file fotomu yang sebenarnya.
                 3. Ganti teks 'alt' dengan deskripsi fotomu.
             -->
-            <img src="images/nama-file-gambar.jpg" alt="Deskripsi singkat fotomu" width="200">
+            <img src="images/nama-file-gambar.jpg" alt="Lukman Hakim" width="200">
 
             <!-- TUGAS 5: Tulis satu atau dua paragraf singkat tentang dirimu, minat, atau cita-citamu di sini. -->
             <p>
-                <!-- TULIS PARAGRAF TENTANG DIRIMU DI SINI --> Aku kelas 11 di sma it hsi-idn tinggalku di brebes dan tanjong priok minatku olahraga atau cita2ku ingin menjadi presiden {ceo}
-            </p>
+                <!-- TULIS PARAGRAF TENTANG DIRIMU DI SINI --> Halo, nama saya Lukman Hakim. Saya berusia 17 tahun dan dibesarkan di Brebes, Tanjung priok.Saya suka menghafal, berolahraga dan it. Saat ini saya sedang belajar di SMA IT HSI IDN dengan tingkat kelas 10.
+                saya tertarik pada al-qur'an dan coding.
+                Cita-cita saya adalah menjadi desain dan pengusaha sukses atau presiden atau dokter atau lainnya .
+                Saya berharap dapat belajar lebih banyak tentang ilmu komputer, desain, 30 juz menghafal dengan mutqin dan dapat uang banyak.            </p>
         </section>
 
         <hr>
@@ -57,8 +57,8 @@ Perkenalan siswa kelas 11 SMA IT HSI-IDN
             <h2>Skill Unggulan</h2>
             <ol>
                 <!-- TUGAS 6: Isi 3 skill atau lebih yang kamu miliki -->
-                <li><!-- Isi dengan skill #1 --></li> Upskilling
-                <li><!-- Isi dengan skill #2 --></li> Hard Skill
+                <li><!-- Isi dengan skill #1 --></li> HART SKIll
+                <li><!-- Isi dengan skill #2 --></li> Flat ilustrasion
                 <li><!-- Isi dengan skill #3 --></li> Soft Skill
             </ol>
         </section>
@@ -72,9 +72,9 @@ Perkenalan siswa kelas 11 SMA IT HSI-IDN
             <table>
                 <!-- Baris untuk Judul Kolom -->
                 <tr>
-                    <th>Jenjang</th> SMA --></td>
-                    <th>Nama Sekolah</th> SMA IT HSI-IDN --></td>
-                    <th>Tahun</th> 2025 - Sekarang --></td>
+                    <th> Jenjang </th> SMA --></td>
+                    <th>Nama Sekolah</th> SMA IT hsi boarding school --></td>
+                    <th>Tahun</th> 2024 - Sekarang --></td>
                 </tr>
 
                 <!-- TUGAS 7: Isi baris-baris di bawah ini dengan data riwayat pendidikanmu -->
@@ -88,9 +88,9 @@ Perkenalan siswa kelas 11 SMA IT HSI-IDN
 
                 <!-- Baris untuk data SMP -->
                 <tr>
-                    <td><!-- Isi Jenjang SMP --></td>
-                    <td><!-- Isi Nama SMP --></td>
-                    <td><!-- Isi Tahun Lulus SMP --></td>
+                    <td><!-- SMP --></td>
+                    <td><!-- MTS PERSIS 12 Koja --></td>
+                    <td><!-- 2020 - 2023 --></td>
                 </tr>
 
             </table>
@@ -109,13 +109,13 @@ Perkenalan siswa kelas 11 SMA IT HSI-IDN
         <!-- Menggunakan <ul> (Unordered List) karena urutan sosial media tidak penting -->
         <ul>
             <!-- TUGAS 8: Ganti '#' dengan link sosial media dan 'Nama Sosmed' dengan namanya (misal: GitHub, Instagram) -->
-            <li><a href="#">Nama Sosmed 1</a></li> IG : ll3hakim
-            <li><a href="#">Nama Sosmed 2</a></li> Youtube : Lukman Hakim L3
-            <li><a href="#">Nama Sosmed 3</a></li> Lukman Hakim
+            <li><a href="https://www.instagram.com/ll3hakim/">Nama Sosmed 1</a></li> IG
+            <li><a href="https://www.youtube.com/@LUKMANHAKIM-l3real">Nama Sosmed 2</a></li> Youtube
+            <li><a href="https://github.com/lukmanhandsome07-sketch">Nama Sosmed 3</a></li> Git hub
         </ul>
 
-        <!-- TUGAS 9: Ganti [Nama Kamu] dengan namamu --> L3
-        <p>&copy; 2025 [Nama Kamu]. Dibuat dengan penuh semangat.</p>
+        <!-- TUGAS 9: Ganti [ Lukman Hakim ] dengan namamu -->
+        <p>&copy; 2025 [Lukman Hakim ] Dibuat dengan penuh semangat.</p>
     </footer>
 
 </body>
