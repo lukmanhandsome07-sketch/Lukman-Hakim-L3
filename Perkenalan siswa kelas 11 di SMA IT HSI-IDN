@@ -1,122 +1,110 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <!-- ======================================================= -->
-    <!-- BAGIAN HEAD: Informasi untuk Browser                      -->
-    <!-- ======================================================= -->
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <!-- TUGAS 1: Ganti judul di bawah ini dengan nama lengkapmu -->
-    <title>Profil Digital - [Lukman Hakim]</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Profil Digital - Lukman Hakim</title>
 </head>
-<body>
 
-    <!-- ======================================================= -->
-    <!-- BAGIAN HEADER: Judul Utama dan Perkenalan Singkat       --> Perkenalan siswa
-    <!-- ======================================================= -->
-    <header>
-        <!-- TUGAS 2: Isi dengan nama lengkapmu --> Lukman Hakim
-        <h1><!-- ISI DENGAN NAMA LENGKAP KAMU --></h1> Lukman Hakim
+<body style="font-family: Arial, sans-serif; background-color: #f4f7f6; color: #333; ">
 
-        <!-- TUGAS 3: Isi dengan jabatan atau tagline singkat (Contoh: Siswa, Calon Web Developer) --> SISWA
-        <p><!-- ISI DENGAN JABATAN ATAU TAGLINE SINGKAT --></p> pelajar
+    <!-- HEADER: Bagian atas dengan nama dan jabatan -->
+    <header style="margin:20px;background-color: #000000; color: rgb(70, 45, 193); padding: 40px 20px; text-align: center;border:3px solid red">
+        <h1 style="margin: 0; font-size: 48px; font-weight: 300;">Lukman <em>Hakim</em> Lucky</h1>
+        <p style="margin-top: 10px; font-size: 20px; color: #253570; font-weight: 300;">SMA IT HSI Boarding School</p>
     </header>
 
-    <hr> <!-- Ini adalah tag untuk membuat garis horizontal, sebagai pemisah -->
+    <!-- MAIN CONTENT: Bagian utama yang berisi semua informasi -->
+    <main style="max-width: 900px; margin: 40px auto; padding: 20px; background-color: white; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
-    <!-- ======================================================= -->
-    <!-- BAGIAN MAIN: Konten Utama Halaman Profil                -->
-    <!-- ======================================================= -->
-    <main>
+        <!-- Bagian Tentang Saya -->
+        <section style="margin-bottom: 40px; display: block; text-align: center;">
+            <h2 style="font-size: 32px; color: #4829b9; border-bottom: 2px solid #ecf0f1; padding-bottom: 10px; margin-bottom: 20px;">Tentang Saya</h2>
 
-        <!-- === Bagian Tentang Saya === -->
-        <section>
-            <h2>Tentang Saya</h2>
+            <img src="Lukman.jpg"
+                alt="Foto profil Lukman Hakim"
+                style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; border: 6px solid #ecf0f1; box-shadow: 0 2px 4px rgba(0,0,0,0.1);" />
 
-            <!-- TUGAS 4:
-                1. Letakkan satu foto dirimu di dalam folder 'https://drive.google.com/file/d/1Hrk5l0ARZoYd8dOvLWaaVFR_yXmtdDQ8/view?usp=drive_link'.
-                2. Ganti 'nama-file-gambar.jpg' dengan nama file fotomu yang sebenarnya.
-                3. Ganti teks 'alt' dengan deskripsi fotomu.
-            -->
-            <img src="images/nama-file-gambar.jpg" alt="Lukman Hakim" width="200">
-
-            <!-- TUGAS 5: Tulis satu atau dua paragraf singkat tentang dirimu, minat, atau cita-citamu di sini. -->
-            <p>
-                <!-- TULIS PARAGRAF TENTANG DIRIMU DI SINI --> Halo, nama saya Lukman Hakim. Saya berusia 17 tahun dan dibesarkan di Brebes, Tanjung priok.Saya suka menghafal, berolahraga dan it. Saat ini saya sedang belajar di SMA IT HSI IDN dengan tingkat kelas 10.
-                saya tertarik pada al-qur'an dan coding.
-                Cita-cita saya adalah menjadi desain dan pengusaha sukses atau presiden atau dokter atau lainnya .
-                Saya berharap dapat belajar lebih banyak tentang ilmu komputer, desain, 30 juz menghafal dengan mutqin dan dapat uang banyak.            </p>
+            <p style="text-align: justify; line-height: 1.7; margin-top: 20px; padding: 0 15px;">
+                Saya adalah seorang Pelajar yang berpengalaman Menghafal,Belajar IT,Bahasa Arab,dan Bahasa Inggris di SMA IT HSI Boarding School. Aku Lahir di Tanjung priok di Jakut,Aku tinggal di brebes wanasari di jateng.
+                seperti Menghafal Kitab Ajurrumiyyatu,Kitab Aqidatuna,KitabFathul Aliy',Kitab Nabiyyuna,Kitab Bahasa Arab,dan Lainnya kalo Belajar IT tentang HTML,CSS dan Desain di canva dan lainnya. Saya berharap dapat menjadi Aquaman,Krishh,Ahli Komputer,Ilmu Pengetahuan yang banyak dan Menghafal lebih banyak.
+            </p>
+            <p style="text-align: center; line-height: 1.7; padding: 0 15px;">
+                Saya berharap dapat menjadi Aquaman,Krishh,Ahli Komputer,Ilmu Pengetahuan yang banyak dan Menghafal lebih banyak. Minatku ingin menjadi Presiden {CEO} atau Pengusaha Sukses
+            </p>.
+            </p>
         </section>
 
-        <hr>
+        <hr style="border: 0; height: 1px; background-color: #ecf0f1; margin: 40px 0;">
 
-        <!-- === Bagian Skill / Keahlian === -->
-        <!-- Menggunakan <ol> (Ordered List) karena kita ingin menampilkannya sebagai daftar bernomor (menunjukkan urutan/prioritas) -->
-        <section>
-            <h2>Skill Unggulan</h2>
-            <ol>
-                <!-- TUGAS 6: Isi 3 skill atau lebih yang kamu miliki -->
-                <li><!-- Isi dengan skill #1 --></li> HART SKIll
-                <li><!-- Isi dengan skill #2 --></li> Flat ilustrasion
-                <li><!-- Isi dengan skill #3 --></li> Soft Skill
+        <!-- Bagian Skill -->
+        <section style="margin-bottom: 40px;">
+            <h2 style="font-size: 32px; color: #1d37c7; border-bottom: 2px solid hsl(192, 15%, 94%); padding-bottom: 10px; margin-bottom: 20px;">Skill Unggulan</h2>
+
+            <h3 style="font-size: 20px; color: #34495e; margin-top: 30px;">Keahlian Diriku</h3>
+            <ol style="padding-left: 20px;">
+                <li style="margin-bottom: 10px; font-size: 18px;">Menghafal</li>
+                <li style="margin-bottom: 10px; font-size: 18px;">Flat Ilustrasion</li>
+                <li style="margin-bottom: 10px; font-size: 18px;">Membaca Buku</li>
+                <li style="margin-bottom: 10px; font-size: 18px;">Murojaah</li>
+            </ol>
+
+            <h3 style="font-size: 20px; color: #34495e; margin-top: 30px;">Berbicara Bahasa</h3>
+            <ol style="padding-left: 20px;">
+                <li style="margin-bottom: 10px; font-size: 18px;">Berbicara Bahasa Indonesia - (Menulis & Membaca)</li>
             </ol>
         </section>
 
-        <hr>
+        <hr style="border: 0; height: 1px; background-color: #ecf0f1; margin: 40px 0;">
 
-        <!-- === Bagian Riwayat Pendidikan === -->
-        <!-- Menggunakan <table> untuk menampilkan data yang terstruktur rapi -->
-        <section>
-            <h2>Riwayat Pendidikan</h2>
-            <table>
-                <!-- Baris untuk Judul Kolom -->
-                <tr>
-                    <th> Jenjang </th> SMA --></td>
-                    <th>Nama Sekolah</th> SMA IT hsi boarding school --></td>
-                    <th>Tahun</th> 2024 - Sekarang --></td>
-                </tr>
-
-                <!-- TUGAS 7: Isi baris-baris di bawah ini dengan data riwayat pendidikanmu -->
-
-                <!-- Baris untuk data SMA -->
-                <tr>
-                    <td><!-- Contoh: SMA --></td>
-                    <td><!-- Contoh: SMA IT Daarul Fikri --></td>
-                    <td><!-- Contoh: 2024 - Sekarang --></td>
-                </tr>
-
-                <!-- Baris untuk data SMP -->
-                <tr>
-                    <td><!-- SMP --></td>
-                    <td><!-- MTS PERSIS 12 Koja --></td>
-                    <td><!-- 2020 - 2023 --></td>
-                </tr>
-
+        <!-- Bagian Riwayat Pendidikan -->
+        <section style="margin-bottom: 40px;">
+            <h2 style="font-size: 32px; color: #355d7a; border-bottom: 2px solid #ecf0f1; padding-bottom: 10px; margin-bottom: 20px;">Riwayat Pendidikan</h2>
+            <table style="width: 100%; border-collapse: collapse; text-align: left; font-size: 16px;">
+                <thead style="background-color: #1b6dc0; color: white;">
+                    <tr>
+                        <th style="padding: 15px; font-weight: 600;">Jenjang</th>
+                        <th style="padding: 15px; font-weight: 600;">Nama Sekolah</th>
+                        <th style="padding: 15px; font-weight: 600;">Tahun</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr style="border-bottom: 1px solid #ecf0f1;">
+                        <td style="padding: 15px;">SMP</td>
+                        <td style="padding: 15px;">MTS PERSIS 12 KOJA JAKUT</td>
+                        <td style="padding: 15px;">2020 - 2023</td>
+                    </tr>
+                    <tr style="background-color: #f9f9f9; border-bottom: 1px solid #ecf0f1;">
+                        <td style="padding: 15px;">SMA</td>
+                        <td style="padding: 15px;">SMA IT HSI Boarding School</td>
+                        <td style="padding: 15px;">2024 - Sekarang</td>
+                    </tr>
+                </tbody>
             </table>
         </section>
 
     </main>
 
-    <hr>
+    <hr style="border: 0; height: 1px; background-color: #ecf0f1; margin: 40px 0;">
 
-    <!-- ======================================================= -->
-    <!-- BAGIAN FOOTER: Link Kontak dan Copyright                -->
-    <!-- ======================================================= -->
-    <footer>
-        <h2>Hubungi Saya</h2>
-
-        <!-- Menggunakan <ul> (Unordered List) karena urutan sosial media tidak penting -->
-        <ul>
-            <!-- TUGAS 8: Ganti '#' dengan link sosial media dan 'Nama Sosmed' dengan namanya (misal: GitHub, Instagram) -->
-            <li><a href="https://www.instagram.com/lllhakimreal/">Nama Sosmed 1</a></li> IG
-            <li><a href="https://www.youtube.com/@LUKMANHAKIM-l3real">Nama Sosmed 2</a></li> Youtube
-            <li><a href="https://github.com/lukmanhandsome07-sketch">Nama Sosmed 3</a></li> Git hub
+    <!-- FOOTER: Bagian bawah dengan info kontak -->
+    <footer style="background-color: #1b6dc0; color: white; text-align: center; padding: 30px 20px;">
+        <h2 style="margin-top: 0; font-size: 24px; font-weight: 300;">Hubungi Saya</h2>
+        <ul style="list-style-type: none; padding: 0; margin: 20px 0;">
+            <li style="display: inline-block; margin: 0 15px;">
+                <a href="https://github.com/lukmanhandsome07-sketch" target="_blank" style="color: white; text-decoration: none; font-size: 18px;">GitHub</a>
+            </li>
+            <li style="display: inline-block; margin: 0 15px;">
+                <a href="https://www.youtube.com/@LUKMANHAKIM-l3real" target="_blank" style="color: white; text-decoration: none; font-size: 18px;">LinkedIn</a>
+            </li>
+            <li style="display: inline-block; margin: 0 15px;">
+                <a href="https://www.instagram.com/lllhakimreal/" style="color: white; text-decoration: none; font-size: 18px;">Email</a>
+            </li>
         </ul>
-
-        <!-- TUGAS 9: Ganti [ Lukman Hakim ] dengan namamu -->
-        <p>&copy; 2025 [Lukman Hakim ] Dibuat dengan penuh semangat.</p>
+        <p style="font-size: 14px; color: #e9ecef; margin-top: 30px;">&copy; 2025 Lukman Hakim Lucky. Dibuat dengan penuh semangat.</p>
     </footer>
 
 </body>
+
 </html>
