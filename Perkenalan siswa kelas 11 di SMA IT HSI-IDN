@@ -24,14 +24,14 @@
 
             <img src="Lukman.jpg"
                 alt="Foto profil Lukman Hakim"
-                style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; border: 6px solid #ecf0f1; box-shadow: 0 2px 4px rgba(0,0,0,0.1);" />
+                style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; border: 6px solid #a7a7c1; box-shadow: 0 2px 4px rgba(0,0,0,0.1);" />
 
             <p style="text-align: justify; line-height: 1.7; margin-top: 20px; padding: 0 15px;">
-                Saya adalah seorang Pelajar yang berpengalaman Menghafal,Belajar IT,Bahasa Arab,dan Bahasa Inggris di SMA IT HSI Boarding School. Aku Lahir di Tanjung priok di Jakut,Aku tinggal di brebes wanasari di jateng.
-                seperti Menghafal Kitab Ajurrumiyyatu,Kitab Aqidatuna,KitabFathul Aliy',Kitab Nabiyyuna,Kitab Bahasa Arab,dan Lainnya kalo Belajar IT tentang HTML,CSS dan Desain di canva dan lainnya. Saya berharap dapat menjadi Aquaman,Krishh,Ahli Komputer,Ilmu Pengetahuan yang banyak dan Menghafal lebih banyak.
+                Saya adalah seorang Pelajar yang berpengalaman Menghafal,Belajar IT,Bahasa Arab,dan Bahasa Inggris di SMA IT HSI Boarding School. Aku Lahir di Tanjung priok di Jakut, Aku tinggal di Brebes di jateng.
+                seperti Menghafal Kitab Qoidah As-samiriyyah ,Kitab Ajurrumiyyatu,Kitab Aqidatuna,Kitab Fathul Aliy',Kitab Nabiyyuna,Kitab Bahasa Arab,dan Lainnya kalo Belajar IT tentang HTML,CSS dan Desain di canva dan lainnya.
             </p>
             <p style="text-align: center; line-height: 1.7; padding: 0 15px;">
-                Saya berharap dapat menjadi Aquaman,Krishh,Ahli Komputer,Ilmu Pengetahuan yang banyak dan Menghafal lebih banyak. Minatku ingin menjadi Presiden {CEO} atau Pengusaha Sukses
+                Saya berharap dapat menjadi Aquaman,Krishh,Ahli Komputer,Ilmu Pengetahuan yang banyak dan Menghafal lebih banyak. Cita-CItaku ingin menjadi Presiden {CEO} atau Pengusaha Sukses
             </p>.
             </p>
         </section>
@@ -52,7 +52,7 @@
 
             <h3 style="font-size: 20px; color: #34495e; margin-top: 30px;">Berbicara Bahasa</h3>
             <ol style="padding-left: 20px;">
-                <li style="margin-bottom: 10px; font-size: 18px;">Berbicara Bahasa Indonesia - (Menulis & Membaca)</li>
+                <li style="margin-bottom: 10px; font-size: 18px;">Berbicara Bahasa Indonesia - (Menulis & Membaca), Berbicara Bahasa Inggris,dan, Berbicara Bahasa Arab</li>
             </ol>
         </section>
 
@@ -70,6 +70,11 @@
                     </tr>
                 </thead>
                 <tbody>
+                    <tr style="background-color: #f9f9f9; border-bottom: 1px solid #ecf0f1;">
+                        <td style="padding: 15px;">SD</td>
+                        <td style="padding: 15px;">SDN TUGU UTARA 01 PAGI</td>
+                        <td style="padding: 15px;">2014 - 2019</td>
+                    </tr>
                     <tr style="border-bottom: 1px solid #ecf0f1;">
                         <td style="padding: 15px;">SMP</td>
                         <td style="padding: 15px;">MTS PERSIS 12 KOJA JAKUT</td>
